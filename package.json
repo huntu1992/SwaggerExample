@@ -1,0 +1,23 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "nope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntu1992/SwaggerExample.git"
+  },
+  "author": "cym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntu1992/SwaggerExample/issues"
+  },
+  "homepage": "https://github.com/huntu1992/SwaggerExample#readme",
+  "devDependencies": {
+    "swagger-jsdoc": "^3.4.0",
+    "swagger-ui-express": "^4.0.7"
+  }
+}
